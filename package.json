@@ -1,0 +1,25 @@
+{
+  "name": "Live-Map",
+  "version": "1.0.0",
+  "description": "A map for D&D",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueJay3270/Live-Map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlueJay3270/Live-Map/issues"
+  },
+  "homepage": "https://github.com/BlueJay3270/Live-Map#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
